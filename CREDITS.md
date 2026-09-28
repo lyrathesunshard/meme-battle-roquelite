@@ -7,7 +7,12 @@
 - **Kenney** (www.kenney.nl) - CC0: *New Platformer Pack* (terrain, decor, backgrounds, coin), *Particle Pack* (VFX textures), *Kenney Fonts* (Kenney Future - title and loading screen).
 
 ## Audio
-- **Kenney** (www.kenney.nl) - CC0: *Impact Sounds*, *Sci-Fi Sounds*, *Interface Sounds*, *RPG Audio*, *New Platformer Pack* sounds.
+- **Kenney** (www.kenney.nl) - CC0: *Impact Sounds*, *Sci-Fi Sounds*, *Interface Sounds*, *RPG Audio*, *New Platformer Pack* sounds,
+  *Voiceover Pack* and *Voiceover Pack: Fighter* (announcer + callout voices: `an_*`, `vo_*`), *Digital Audio* (`fx_*`).
+- **Meow** - IgnasD - CC0 (https://opengameart.org/content/meow): `meow.ogg`.
+- **Cat Purr & Meow** - Kerzoven - CC0 (https://opengameart.org/content/cat-purr-meow): `meow_long.ogg`.
+- `sad_trombone.ogg` - synthesized in-project (`tools/synth_sfx.py`).
+- `siuuu.ogg` - supplied by the project owner (Cristiano Ronaldo's celebration; rights not cleared - replace before any commercial release).
 - **Gunshot Sounds** - Vincent Sevedge, uploaded to OpenGameArt by Tabasco - CC-BY 3.0
   (https://opengameart.org/content/gunshot-sounds). Trimmed to single shots: `shot_pistol.wav`, `shot_uzi.wav`, `shot_sniper.wav`, `shot_shotgun.wav`.
 - **Backfoot** - Centurion_of_war - CC0 (https://opengameart.org/content/backfoot): menu music.
