@@ -4,7 +4,7 @@
 - Coin, arms, hand, pistol, muzzle flash: project originals (`_pre_assets/`).
 - Uzi, Sniper, Axe, Spear, skill icons, coin skins' rims: generated in-project (`tools/`).
 - Meme face photos in `assets/skins/*.face.png`: supplied by the project owner (internet memes; rights not cleared - replace before any public release).
-- **Kenney** (www.kenney.nl) - CC0: *New Platformer Pack* (terrain, decor, backgrounds, coin), *Particle Pack* (VFX textures).
+- **Kenney** (www.kenney.nl) - CC0: *New Platformer Pack* (terrain, decor, backgrounds, coin), *Particle Pack* (VFX textures), *Kenney Fonts* (Kenney Future - title and loading screen).
 
 ## Audio
 - **Kenney** (www.kenney.nl) - CC0: *Impact Sounds*, *Sci-Fi Sounds*, *Interface Sounds*, *RPG Audio*, *New Platformer Pack* sounds.
