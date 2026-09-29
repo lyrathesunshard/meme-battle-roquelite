@@ -4,6 +4,6 @@ Free-for-all coin brawler made with Godot 4.7. Pick a meme coin, draft a weapon,
 
 **Play:** https://lyrathesunshard.github.io/meme-battle-roquelite/
 
-Controls: A/D move, Space jump, mouse aim, left click attack, Q/E skills, R ultimate, Esc pause.
+Controls: A/D move, Space jump, mouse aim, left click attack, Q/E skills, R ultimate, Esc pause, M mute.
 
 This repo holds the exported web build only. Third-party assets are listed in [CREDITS.md](CREDITS.md).
